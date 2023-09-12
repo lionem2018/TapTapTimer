@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TapTapTimer</string>
+
+    <string name="watch_start">START</string>
+    <string name="watch_stop">STOP</string>
+
+    <string name="notice_set_timer">Please set the timer</string>
+</resources>
